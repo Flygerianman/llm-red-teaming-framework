@@ -417,4 +417,7 @@ The goal of red teaming is not to prove a model can be broken, because it almost
 
 **Kingsley Uchenna Isichei** is an AI Automation Engineer and QA Pipeline Builder based in Abuja, Nigeria. His work spans AI evaluation, data annotation, rubric-based LLM testing, workflow automation, and linguistic QA in Nigerian Pidgin and Igbo.
 
+- LinkedIn: [Kingsley Isichei](https://www.linkedin.com/in/kingsley-isichei-5a61bb409)
+- Portfolio: [flygerianman.github.io/Portfolio](https://flygerianman.github.io/Portfolio/)
+
 *Note: the case study in this article is entirely fictional and uses a harmless canary string. No real systems, credentials, or user data were tested.*
